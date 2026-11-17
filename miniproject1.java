@@ -38,11 +38,11 @@ public class studdemo {
             switch (Choice) {
                 case "1":
                     System.out.println("-------------------------------------------------");
-                    System.out.println("Name of the Student                       : " + Name);
-                    System.out.println("Age of the student                        : " + Age);
-                    System.out.println("Roll number of the student                : " + rollno);
-                    System.out.println("Name of the course                        : " + Course);
-                    System.out.println("Number of Subjects Choosen by the Student : " + NoOfSubjects);
+                    System.out.println(" Enter the Name of the Student                       : " + Name);
+                    System.out.println("Enter the Age of the student                        : " + Age);
+                    System.out.println("Enter the Roll number of the student                : " + rollno);
+                    System.out.println("Enter the Name of the course                        : " + Course);
+                    System.out.println("Enter the Number of Subjects Choosen by the Student : " + NoOfSubjects);
                     System.out.println("-------------------------------------------------");
                     System.out.println();
                     break;//43
